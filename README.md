@@ -1,3 +1,2 @@
-Applying Clustering techniques on the provided dataset.
+Applied Clustering techniques on the provided dataset.
 
-Thank you!
